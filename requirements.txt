@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+Pillow
+numpy
+requests
+tqdm
+scikit-image
+torch
+torchvision
+basicsr
+realesrgan
